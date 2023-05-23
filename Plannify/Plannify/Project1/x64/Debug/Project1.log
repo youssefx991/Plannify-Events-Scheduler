@@ -1,0 +1,20 @@
+﻿D:\Visual studio\IDE\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AddEventForm.cpp
+  Calendar.cpp
+  Date.cpp
+  dayuc.cpp
+  DisplayAllEvents.cpp
+  Event.cpp
+  EventAllData.cpp
+  EventReminderCard.cpp
+  FileManager.cpp
+  MyForm.cpp
+C:\Users\yousapr\Downloads\DSNew\Project1\Project1\MyForm.cpp(7,34): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyUserControl.cpp
+  Source.cpp
+  User.cpp
+  UsersManager.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  AddEventForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> C:\Users\yousapr\Downloads\DSNew\Project1\x64\Debug\Plannify.exe

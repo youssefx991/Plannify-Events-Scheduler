@@ -1,0 +1,68 @@
+C:\Users\max\Desktop\test calender\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\max\Desktop\test calender\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\max\Desktop\test calender\Project1\Project1\x64\Debug\Project1.AddEventForm.resources
+C:\Users\max\Desktop\test calender\Project1\Project1\x64\Debug\Project1.dayuc.resources
+C:\Users\max\Desktop\test calender\Project1\Project1\x64\Debug\Project1.DisplayAllEvents.resources
+C:\Users\max\Desktop\test calender\Project1\Project1\x64\Debug\Project1.EventAllData.resources
+C:\Users\max\Desktop\test calender\Project1\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\max\Desktop\test calender\Project1\Project1\x64\Debug\Project1.MyUserControl.resources
+C:\Users\max\Desktop\test calender\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\max\Desktop\test calender\Project1\Project1\x64\Debug\Project1.vcxproj.CopyComplete
+C:\Users\max\Desktop\test calender\Project1\Project1\x64\Debug\Project1.EventReminderCard.resources
+F:\COLLAGE\Collage Prjects\ds3\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+F:\COLLAGE\Collage Prjects\ds3\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+F:\COLLAGE\Collage Prjects\ds3\Project1\Project1\x64\Debug\Project1.AddEventForm.resources
+F:\COLLAGE\Collage Prjects\ds3\Project1\Project1\x64\Debug\Project1.dayuc.resources
+F:\COLLAGE\Collage Prjects\ds3\Project1\Project1\x64\Debug\Project1.DisplayAllEvents.resources
+F:\COLLAGE\Collage Prjects\ds3\Project1\Project1\x64\Debug\Project1.EventAllData.resources
+F:\COLLAGE\Collage Prjects\ds3\Project1\Project1\x64\Debug\Project1.EventReminderCard.resources
+F:\COLLAGE\Collage Prjects\ds3\Project1\Project1\x64\Debug\Project1.MyForm.resources
+F:\COLLAGE\Collage Prjects\ds3\Project1\Project1\x64\Debug\Project1.MyUserControl.resources
+F:\COLLAGE\Collage Prjects\ds3\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+F:\COLLAGE\Collage Prjects\ds3\Project1\Project1\x64\Debug\Project1.vcxproj.CopyComplete
+C:\Users\max\Desktop\ds3\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\max\Desktop\ds3\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\max\Desktop\ds3\Project1\Project1\x64\Debug\Project1.AddEventForm.resources
+C:\Users\max\Desktop\ds3\Project1\Project1\x64\Debug\Project1.dayuc.resources
+C:\Users\max\Desktop\ds3\Project1\Project1\x64\Debug\Project1.DisplayAllEvents.resources
+C:\Users\max\Desktop\ds3\Project1\Project1\x64\Debug\Project1.EventAllData.resources
+C:\Users\max\Desktop\ds3\Project1\Project1\x64\Debug\Project1.EventReminderCard.resources
+C:\Users\max\Desktop\ds3\Project1\Project1\x64\Debug\Project1.Login.resources
+C:\Users\max\Desktop\ds3\Project1\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\max\Desktop\ds3\Project1\Project1\x64\Debug\Project1.MyUserControl.resources
+C:\Users\max\Desktop\ds3\Project1\Project1\x64\Debug\Project1.Signup.resources
+C:\Users\max\Desktop\ds3\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\max\Desktop\ds3\Project1\Project1\x64\Debug\Project1.vcxproj.CopyComplete
+C:\Users\max\Desktop\ds3.V.6.4\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\max\Desktop\ds3.V.6.4\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\max\Desktop\ds3.V.6.4\Project1\Project1\x64\Debug\Project1.AddEventForm.resources
+C:\Users\max\Desktop\ds3.V.6.4\Project1\Project1\x64\Debug\Project1.dayuc.resources
+C:\Users\max\Desktop\ds3.V.6.4\Project1\Project1\x64\Debug\Project1.DisplayAllEvents.resources
+C:\Users\max\Desktop\ds3.V.6.4\Project1\Project1\x64\Debug\Project1.EventAllData.resources
+C:\Users\max\Desktop\ds3.V.6.4\Project1\Project1\x64\Debug\Project1.EventReminderCard.resources
+C:\Users\max\Desktop\ds3.V.6.4\Project1\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\max\Desktop\ds3.V.6.4\Project1\Project1\x64\Debug\Project1.MyUserControl.resources
+C:\Users\max\Desktop\ds3.V.6.4\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\max\Desktop\ds3.V.6.4\Project1\Project1\x64\Debug\Project1.vcxproj.CopyComplete
+D:\DSNew\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\DSNew\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+D:\DSNew\Project1\Project1\x64\Debug\Project1.AddEventForm.resources
+D:\DSNew\Project1\Project1\x64\Debug\Project1.dayuc.resources
+D:\DSNew\Project1\Project1\x64\Debug\Project1.DisplayAllEvents.resources
+D:\DSNew\Project1\Project1\x64\Debug\Project1.EventAllData.resources
+D:\DSNew\Project1\Project1\x64\Debug\Project1.EventReminderCard.resources
+D:\DSNew\Project1\Project1\x64\Debug\Project1.MyForm.resources
+D:\DSNew\Project1\Project1\x64\Debug\Project1.MyUserControl.resources
+D:\DSNew\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+D:\DSNew\Project1\Project1\x64\Debug\Project1.vcxproj.CopyComplete
+C:\Users\yousapr\Downloads\DSNew\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\yousapr\Downloads\DSNew\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\yousapr\Downloads\DSNew\Project1\Project1\x64\Debug\Project1.AddEventForm.resources
+C:\Users\yousapr\Downloads\DSNew\Project1\Project1\x64\Debug\Project1.dayuc.resources
+C:\Users\yousapr\Downloads\DSNew\Project1\Project1\x64\Debug\Project1.DisplayAllEvents.resources
+C:\Users\yousapr\Downloads\DSNew\Project1\Project1\x64\Debug\Project1.EventAllData.resources
+C:\Users\yousapr\Downloads\DSNew\Project1\Project1\x64\Debug\Project1.EventReminderCard.resources
+C:\Users\yousapr\Downloads\DSNew\Project1\Project1\x64\Debug\Project1.MyForm.resources
+C:\Users\yousapr\Downloads\DSNew\Project1\Project1\x64\Debug\Project1.MyUserControl.resources
+C:\Users\yousapr\Downloads\DSNew\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\yousapr\Downloads\DSNew\Project1\Project1\x64\Debug\Project1.vcxproj.CopyComplete
