@@ -1,5 +1,5 @@
 # Plannify-Events-Scheduler
-# This is an application to schedule the events for multiple users. (each user has an account to deal with his events ).
+## This is an application to schedule the events for multiple users. (each user has an account to deal with his events ).
 ## Each event must have:
 1. A name
 2. A start date
